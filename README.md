@@ -9,6 +9,6 @@
 **To do**
 - [x] Arcs Spider
 - [x] Volumes Spider
-- [ ] Chapters Spider
+- [x] Chapters Spider
 - [ ] Characthers Spider
 - [ ] Think about other spiders...
