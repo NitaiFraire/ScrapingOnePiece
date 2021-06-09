@@ -1,6 +1,6 @@
 # Scraping one piece manga information
 
-**Information souorce:** [One Piece Wiki](https://onepiece.fandom.com/wiki/One_Piece_Wiki)
+**Information source:** [One Piece Wiki](https://onepiece.fandom.com/wiki/One_Piece_Wiki)
 
 **Spiders available:**
 - Arcs
